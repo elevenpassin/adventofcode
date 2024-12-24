@@ -1,0 +1,5 @@
+{
+  "type": "module",
+  "name": "adventofcode",
+  "packageManager": "yarn@4.5.3"
+}
