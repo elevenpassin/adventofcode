@@ -9,7 +9,6 @@ import { resolve } from 'node:path'
 
     const listA = [];
     const listB = [];
-    const distances = [];
 
     // read the input line by line and populate listA & listB
     for await (const line of contents.readLines()) {
